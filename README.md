@@ -1,5 +1,4 @@
 # Hi, I’m @arttu-m-l 👋 
-- 👀 I’m interested in cutting edge computer technologies.
-- 🌱 I’m currently learning new data analysis methodologies.
+- 👀 I’m interested in cutting edge cloud computing technologies.
 - 💞️ I’m looking to work alongside innovative companies.
-- 📫 You can best reach me by email.
+- 📫 You can best reach me by email!
